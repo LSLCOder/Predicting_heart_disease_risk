@@ -25,7 +25,7 @@ Built with **Streamlit** and powered by a **Random Forest Classifier**, this too
 3. Run the app:
 
 ## Live App
-🔗 [Click here to open the live app](https://your-streamlit-app-link.streamlit.app)
+🔗 [Click here to open the live app](https://predictingheartdiseaserisk-yc3xqtpvptt7o2vtbkvhfd.streamlit.app/)
 
 ## Model Training Notebook
 🔗 [View on Google Colab](https://colab.research.google.com/drive/1cdJn7zHDqyjxgfHtTBaGBFow4426DO-o?usp=sharing)
