@@ -11,7 +11,16 @@ import time
 # ----------------------------
 st.set_page_config(page_title="Heart Disease Risk Checker", layout="centered")
 model_path = "heart_disease_model.pkl"
-file_id = "1_OqUNI5f3q_BgvjtNnepRIebqgg_6VHR"
+
+# first pkl
+# file_id = "1_OqUNI5f3q_BgvjtNnepRIebqgg_6VHR"
+
+# second pkl
+# file_id = "1X8hT8aXCKWVzNmPzAaZ3va6ByyS0tbvd"
+
+# third pkl
+file_id = "1MO7WGYVXLN5dQ6LmonGJ5HKfUqtSNVU6"
+
 url = f"https://drive.google.com/uc?id={file_id}"
 
 # Download model if not present
